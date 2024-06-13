@@ -87,11 +87,11 @@ Row-Level Security (RLS) is a crucial feature in Power BI that controls access t
 
 ### Setting the access
 
-![pic1](https://github.com/filipegoncmartins/Income-Statement-DRE-for-Condominiums/assets/148718210/e9d5b801-ae6e-4c1d-ad9b-aa3a0d50d121)
+![aaa](https://github.com/filipegoncmartins/Income-Statement-DRE-for-Condominiums/assets/148718210/1c596c9f-3ed9-4284-b571-02cab2b7352d)
 
 ### Including the Users
 
-![pic1](https://github.com/filipegoncmartins/Income-Statement-DRE-for-Condominiums/assets/148718210/d7ad4f26-f81f-49ee-b166-b8179dee6b4e)
+![aaa](https://github.com/filipegoncmartins/Income-Statement-DRE-for-Condominiums/assets/148718210/a4cef744-ef8d-4b25-8f07-33ab3491dbcf)
 
 
 # Snapshot of Dashboard (Power BI Service)
