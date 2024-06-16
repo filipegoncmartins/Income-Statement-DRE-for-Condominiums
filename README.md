@@ -11,7 +11,7 @@ This Power BI report provides a comprehensive analysis of the historical financi
 
 This report aids in making informed financial decisions, optimizing operational efficiency, and improving the overall financial health of the shopping centers and associated entities.
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/b9b2a131-a6b8-420d-bfdb-25267e2a2310?ctid=7dc647e5-6288-496e-9c52-70467492ebf3&pbi_source=linkShare
 
 ## Problem Statement
 
